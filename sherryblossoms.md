@@ -12,7 +12,7 @@ A static e-commerce-style website for Sherry Blossoms, a brand curating premium 
 
 ## Dependencies
 - express - Web server framework
-- helmet - Security headers (CSP disabled for Replit compatibility)
+- helmet - Security headers 
 - express-rate-limit - Rate limiting
 - express-basic-auth - Optional basic authentication
 
