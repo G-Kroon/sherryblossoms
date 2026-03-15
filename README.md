@@ -161,24 +161,15 @@ Recommended: push to GitHub and connect to Netlify/Vercel for CI/CD.
 
 Configure caching headers and compression for performance.  
 
-## 🐞 Troubleshooting
-Logo not showing: confirm assets/logo.png exists and path is correct.
-
-Image 404s: check filenames in script.js match actual files.
-
-Server errors: run node server.js directly; install dependencies with npm install.
-
-Port in use: change port or kill the process using it.  
-
 ## 👨‍💻 Credits & License
 Design & Development: GKroon (Pty) Ltd  
 Author/Developer: Jonathan Peters
-License: MIT (recommended). Add a LICENSE file if publishing.  
+License: MIT  
 
 ## 📬 Contact
-Sherry Blossoms — update contact details in footer (index.html)
+Sherry Blossoms 
 
-Developer: GKroon (Pty) Ltd — link in footer credit
+GKroon (Pty) Ltd
 
 
 
